@@ -1,0 +1,2 @@
+# ruby-haracho
+Rubyの練習がてらはらちょの簡単なぶぶんをRubyに移すだけのお話
