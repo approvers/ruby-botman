@@ -1,2 +1,2 @@
-# ruby-haracho
-Rubyの練習がてらはらちょの簡単なぶぶんをRubyに移すだけのお話
+# ruby-botman
+Rubyの練習がてらbotを管理するコマンドをつくる
